@@ -1,0 +1,9 @@
+# environments
+.venv/
+venv/
+env/
+instance/
+
+# python artifacts
+__pycache__/
+

