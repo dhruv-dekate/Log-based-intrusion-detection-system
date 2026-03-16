@@ -2,6 +2,7 @@ from scripts.log_parser import parse_log
 from scripts.data_expander import expand_logs
 from scripts.feature_engineering import feature_engineering
 from detection.fusion_score import fusion_detection
+from detection.llm_analysis import analyze_attack
 
 import pandas as pd
 
@@ -104,6 +105,22 @@ def main(use_expander=False):
          "error_rate",
          "fusion_score"]
     ])
+    
+    #================================
+    # LLM analysis of detected attacks
+    #================================
+
+    attacks = results[results["fusion_flag"] == 1]
+
+    for i, row in attacks.head(5).iterrows():
+
+        explanation = analyze_attack(row)
+
+        print("\n=========================")
+        print("Attack IP:", row["ip"])
+        print("Fusion Score:", row["fusion_score"])
+        print("\nLLM Analysis:")
+        print(explanation)
 
 
 if __name__ == "__main__":
