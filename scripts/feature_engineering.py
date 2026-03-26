@@ -5,15 +5,20 @@ def feature_engineering(path, window="1min"):
 
     # Load CSV
     df = pd.read_csv(path, parse_dates=["time"])
+
     # Rename for consistency
     df.rename(columns={"time": "timestamp"}, inplace=True)
+
     # Sort logs
     df = df.sort_values(by="timestamp")
+
     # Time difference between requests from same IP
     df["time_diff"] = df.groupby("ip")["timestamp"].diff().dt.total_seconds()
+
     # Rare endpoint detection
     endpoint_freq = df["endpoint"].value_counts(normalize=True)
     df["is_rare_endpoint"] = df["endpoint"].map(endpoint_freq) < 0.01
+    
     # Window aggregation
     agg = df.groupby(
         ["ip", pd.Grouper(key="timestamp", freq=window)]
