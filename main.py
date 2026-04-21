@@ -129,8 +129,6 @@ def main(use_expander=False):
     else:
         print("Invalid Query, please try again later.")
 
-
-
 if __name__ == "__main__":
 
     # Set use_expander=True to create a larger dataset for testing
