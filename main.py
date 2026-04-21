@@ -112,15 +112,23 @@ def main(use_expander=False):
 
     attacks = results[results["fusion_flag"] == 1]
 
-    for i, row in attacks.head(5).iterrows():
+    llm_trigger = input("Enter if you want LLM analysis (Y/N)?").lower()
 
-        explanation = analyze_attack(row)
+    if llm_trigger == "y":
+        for i, row in attacks.head(5).iterrows():
 
-        print("\n=========================")
-        print("Attack IP:", row["ip"])
-        print("Fusion Score:", row["fusion_score"])
-        print("\nLLM Analysis:")
-        print(explanation)
+            explanation = analyze_attack(row)
+
+            print("\n=========================")
+            print("Attack IP:", row["ip"])
+            print("Fusion Score:", row["fusion_score"])
+            print("\nLLM Analysis:")
+            print(explanation)
+    elif llm_trigger == "n":
+        print("Thank you...")
+    else:
+        print("Invalid Query, please try again later.")
+
 
 
 if __name__ == "__main__":
